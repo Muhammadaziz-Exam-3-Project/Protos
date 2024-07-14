@@ -1,6 +1,0 @@
-[submodule "protos"]
-	path = protos
-	url = https://github.com/Muhammadaziz-Exam-3-Project/Protos.git
-[submodule "proto"]
-	path = proto
-	url = https://github.com/Muhammadaziz-Exam-3-Project/Protos.git
